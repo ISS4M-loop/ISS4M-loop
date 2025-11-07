@@ -1,6 +1,6 @@
 ISS4M-loop/README.md‎
 <h1 align="center">Hi 👋, I'm ISSAM</h1>
-<h3 align="center">A Computer Science First Year Student 🖥️</h3>
+<h3 align="center">A First Year Computer Science Student 🖥️</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
