@@ -1,5 +1,5 @@
 ISS4M-loop/README.md‎
-<h1 align="center">Hi 👋,You just found ISSAM./h1>
+<h1 align="center">Hi 👋,You just found ISSAM.</h1>
 <h3 align="center">Computer science student 🖥️</h3>
 <h3 align="center">Low level learner</h3>
 
